@@ -1,0 +1,15 @@
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\task_number10.csproj.AssemblyReference.cache
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\task_number10.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\task_number10.AssemblyInfoInputs.cache
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\task_number10.AssemblyInfo.cs
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\task_number10.csproj.CoreCompileInputs.cache
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\bin\Debug\net6.0\task_number10.exe
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\bin\Debug\net6.0\task_number10.deps.json
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\bin\Debug\net6.0\task_number10.runtimeconfig.json
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\bin\Debug\net6.0\task_number10.dll
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\bin\Debug\net6.0\task_number10.pdb
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\task_number10.dll
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\refint\task_number10.dll
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\task_number10.pdb
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\task_number10.genruntimeconfig.cache
+C:\ДЗ.ГБ\Homework_2seminar\task_number10\obj\Debug\net6.0\ref\task_number10.dll
